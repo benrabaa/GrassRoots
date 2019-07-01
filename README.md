@@ -2,6 +2,10 @@
 
 Elevating Civic Engagement 
 
+Try this markdown:
+
+![alt text](https://github.com/benrabaa/GrassRoots/blob/capstone-demo-day/app/src/main/res/drawable/logowithtext.png)
+
 Developed by Mohamed Ben-Rabaa, Caroline Kang, Talha Rahman and Robert Zarate-Morales
 
 Our key objective is to bring the power back into the hands of concerned Americans. 
